@@ -17,9 +17,9 @@ Este repositorio reúne mis proyectos de **análisis de datos**, desarrollados c
 | Proyecto | Descripción | Tecnologías |
 |-----------|-------------|--------------|
 | 🛒 **Análisis Exploratorio de Ventas** | Limpieza, visualización y KPIs de ventas de e-commerce. | Python (Pandas, Seaborn, Matplotlib) |
-| 👥 **Dashboard de Rotación de Personal** | Dashboard en Power BI sobre rotación de empleados. | Power BI |
-| 💰 **Consultas SQL de Finanzas** | Consultas y KPIs financieros. | PostgreSQL |
-| 📈 **Predicción de Demanda** | Modelo predictivo de ventas usando Machine Learning. | Python (Scikit-learn) |
+| 👥 **Dashboard de Rotación de Personal** | Dashboard en Power BI sobre rotación de empleados. | Power BI (en construccion)|
+| 💰 **Consultas SQL de Finanzas** | Consultas y KPIs financieros. | PostgreSQL (en construccion)|
+| 📈 **Predicción de Demanda** | Modelo predictivo de ventas usando Machine Learning. | Python (Scikit-learn) (en construccion)|
 
 ---
 
